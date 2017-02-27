@@ -46,7 +46,7 @@
 <pre><code>
 git clone git@github.com:airm2m-open/Luat_simulator.git
 </pre></code>
-<p>首次克隆LuaT需要花费较长时间，请耐心等待。若克隆失败，再次执行相同的克隆命令，直至克隆成功。</p>
+<p>首次克隆LuaT模拟器需要花费较长时间，请耐心等待。若克隆失败，再次执行相同的克隆命令，直至克隆成功。</p>
 
 <p>AMWatchDll：模拟器的中间件源码。</p>
 <p>sample-script：一个由LDT创建的样例工程。</p>
