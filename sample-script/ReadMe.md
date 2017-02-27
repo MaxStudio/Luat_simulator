@@ -42,9 +42,9 @@
 
 <a name="title30"></a>
 <h2 id="title30" name="title30">3. 克隆LuaT模拟器</h2>
-<p>克隆整个LuaT的开源，需用Git执行下述命令：</p>
+<p>克隆整个LuaT的开源模拟器，需用Git执行下述命令：</p>
 <pre><code>
-git clone git@github.com:airm2m-open/luat.git
+git clone git@github.com:airm2m-open/Luat_simulator.git
 </pre></code>
 <p>首次克隆LuaT需要花费较长时间，请耐心等待。若克隆失败，再次执行相同的克隆命令，直至克隆成功。</p>
 
