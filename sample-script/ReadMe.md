@@ -141,6 +141,12 @@ git clone git@github.com:airm2m-open/Luat_simulator.git
 
 <img src="http://bbs.airm2m.com/data/attachment/album/201702/14/100052cn09rfrmrun1g0gr.png" alt="LDT-DOC-14">
 
+运行模拟器时必需选择6.2创建的Run配置："sample-script-init"。
+
+<img src="http://bbs.airm2m.com/data/attachment/album/201703/03/111318xxd0spf94n99z0en.png" alt="LDT-DOC-27">
+
+<img src="http://bbs.airm2m.com/data/attachment/album/201703/03/111318e8772w68w8y8yez8.png" alt="LDT-DOC-28">
+
 <p>到目前为止，只能运行Run模式，Debug模式还无法正常运行。</p>
 
 <p>
