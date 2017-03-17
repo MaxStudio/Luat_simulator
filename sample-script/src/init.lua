@@ -1,3 +1,17 @@
+--[[**************************************************************************
+ *              Copyright (C), AirM2M Tech. Co., Ltd.
+ *
+ * Name:    init.lua
+ * Author:  panjun
+ * Version: V0.1
+ * Date:    2016/09/13
+ *
+ * Description:
+ *          The entry of 'Luat_simulator'.
+ * History:
+ *     panjun 16/09/13 Initially create file.
+ **************************************************************************]]
+
 print("[AMWatch Debug-Engine] Init...")
 
 local function GetShellPath()
